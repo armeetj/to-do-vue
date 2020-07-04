@@ -1,4 +1,4 @@
-# vuejs
+# to-do-vue
 learning vue.js
 Used the following tutorial to get an intro!
 
